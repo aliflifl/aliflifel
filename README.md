@@ -1,5 +1,5 @@
 # الفليفلة
-فليفل🤍
-gvjjv
+git clone https://github.com/jobiryasir/Only-ok-id
+cd Only-ok-id
+python Ids.py flifel
 
-بوابة استنساخ git clone https://github.com/jobiryasir/Only-ok-id
