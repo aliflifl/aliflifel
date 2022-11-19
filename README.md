@@ -1,6 +1,6 @@
 https://github.com/jobiryasir/Only-ok-id
-# الفليفلة
-git clone https://github.com/jobiryasir/Only-ok-id
-cd Only-ok-id
-python Ids.py flifel
+القرص المضغوط فقط - موافق - معرف
+python Ids.py
+القرص المضغوط فقط - موافق - معرف
+بيثون Ids.py flifel
 
