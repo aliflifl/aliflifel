@@ -1,5 +1,5 @@
 https://github.com/jobiryasir/Only-ok-id
-القرص المضغوط فقط - موافق - معرف
+cd Only-ok-id
 python Ids.py
 القرص المضغوط فقط - موافق - معرف
 بيثون Ids.py flifel
