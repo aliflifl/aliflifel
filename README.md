@@ -1,4 +1,4 @@
-.jpg…]
+https://github.com/jobiryasir/Only-ok-id
 # الفليفلة
 git clone https://github.com/jobiryasir/Only-ok-id
 cd Only-ok-id
